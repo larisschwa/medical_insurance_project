@@ -92,4 +92,4 @@ This model is a learning exercise and should not be used for actual insurance es
 
 ---
 
-Created as part of the [Codecademy Python Syntax course](https://www.codecademy.com/learn/learn-python
+Created as part of the [Codecademy Python Syntax course]
